@@ -1,0 +1,4 @@
+Aquest és el fitxer 2
+ara el modificarem una mica.
+en dues línies
+diferents.
